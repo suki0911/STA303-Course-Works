@@ -1,0 +1,13 @@
+person,quiz,condition,score
+Person 1,Quiz 2,Silence,34
+Person 1,Quiz 3,Silence,48
+Person 1,Quiz 4,Silence,57
+Person 2,Quiz 1,Silence,56
+Person 2,Quiz 3,Silence,59
+Person 2,Quiz 4,Silence,69
+Person 3,Quiz 1,Music,75
+Person 3,Quiz 2,Music,74
+Person 3,Quiz 4,Music,99
+Person 4,Quiz 1,Music,68
+Person 4,Quiz 2,Music,50
+Person 4,Quiz 3,Music,60
